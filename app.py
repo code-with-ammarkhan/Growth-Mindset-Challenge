@@ -1,8 +1,7 @@
 #steamlit
 import streamlit as st
 
-# ✅ Fix: Change 'project_icon' to 'page_icon'
-st.set_page_config(page_title="Growth Mindset Project", page_icon="🔱")
+st.set_page_config(page_title="Growth Mindset Project", page_icon="☘️")
 
 st.title("Growth Mindset Challenge: Web App With Steamlit ")
 
