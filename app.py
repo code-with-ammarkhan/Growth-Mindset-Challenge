@@ -22,7 +22,7 @@ else:
     st.warning("Tell us about your challenge to get started")
 
 # Reflection section
-st.header(" Reflect on Your Learning")
+st.header("🧠 Reflect on Your Learning")
 reflection = st.text_area("Write your reflections here:")
 
 if reflection:
